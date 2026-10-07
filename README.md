@@ -6,7 +6,7 @@ An introductory complex-systems modelling project. A chain reaction of mousetrap
 
 This project answers an International Physicists' Tournament (IPT) problem from 2021:
 
-> An array of mousetraps and ping-pong balls results in a chain reaction. Construct a model for the macroscopic dynamics of such a system, identifying all relevant parameters, and determine the spatiotemporal behavior of the mousetrap excitation probability, and the threshold mousetrap density for the chain reaction to occur.
+> An array of mousetraps and ping-pong balls results in a chain reaction. Construct a model for the  macroscopic dynamics of such a system, identifying all relevant parameters, and determine the spatiotemporal behavior of the mousetrap excitation probability, and the threshold mousetrap density for the chain reaction to occur.
 
 How the project maps onto the three requirements:
 
