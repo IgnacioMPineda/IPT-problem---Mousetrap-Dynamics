@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33177796/README.md)
 # Mousetrap chain reactions: mean-field theory vs lattice simulation
 
 An introductory complex-systems modelling project. A chain reaction of mousetraps and ping-pong balls is simulated on a 1D and a 2D lattice and compared with a mean-field branching-process theory. The question: above which trap density does the reaction become macroscopic, and what fraction of traps does it fire?
@@ -96,7 +95,7 @@ Python 3 with `numpy`, `scipy`, `matplotlib` and `jupyter`. Keep the function fi
 
 ## Use of AI assistance
 
-*(Edit this paragraph to match what you did.)* I designed the problem and the tests and interpreted the results. Claude was used to help write code, notebook text and plots; I checked the results and can explain each part.
+I used Claude to optimize my code and to fill in the gaps in knowledge not yet covered in my degree.
 
 ## Reference
 
