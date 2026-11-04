@@ -127,3 +127,12 @@ def dynamics_2d_toggle(rho, f_k, p_succ_long, p_succ_short=0.9, p_long=0.5,
             state[ty, tx] = 1
 
     return state
+
+
+def kappa_exact(pk, p_succ_long, p_succ_short, p_long=0.5, m=1, mode="mixture"):
+    k = np.arange(1, len(pk) + 1)
+    ql = np.sum(pk[k >= 2] * p_succ_long(k[k >= 2]))
+    qs = p_succ_short
+    if mode == "mixture":
+        qs, ql = (1 - p_long) * qs, p_long * ql
+    return m * (qs + ql), m * qs, m * ql
