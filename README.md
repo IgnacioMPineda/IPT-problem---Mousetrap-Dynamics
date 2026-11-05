@@ -99,4 +99,14 @@ I used Claude to optimize my code and to fill in the gaps in knowledge not yet c
 
 ## Reference
 
-The theory follows the accompanying note `one_dimensional_mouse_trap_model.pdf`.
+The theory follows the accompanying note `one_dimensional_mouse_trap_model.pdf` for the first four notebooks.
+
+For the fifth and sixth notebook, the literature I made use of is in the individual notebooks.
+
+## Timelapse of the project
+I worked on this from late may to early november of 2026. I started updating the github in july, once I had the basics of the two-dimensional dynamics coded up and knew the direction I wanted to take with the project.
+
+## What I learned form the project
+Working on this gave me the chance to come face to face with non-equilibrium statistical mechanics and complex systems content I am yet to encounter in my degree, but that had previously interested. These are contents that I discovered from talking to more experienced students or through media I consumed.
+
+I thoroughly enjoyed working on this and was quite interesyed by the physics and math I picked up alog the way. It has definitely cemented my interest in the more mathematical side of dynamics and statistical mechanics.
